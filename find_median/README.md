@@ -1,13 +1,5 @@
-# Find Max
-> Finds the maximum value in a C++ Vector
-
-## Installation
-
-You can copy this using this command:
-
-```bash
-git clone https://github.com/ourarash/find_max.git
-```
+# Find Median
+> Finds the median value in a C++ Vector
 
 ### Run main:
 
